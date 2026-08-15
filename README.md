@@ -4,7 +4,8 @@
 
  Tech stack used: Python (pandas) MySQL, Tableau
 
-# Data Source: For this data source, I asked Claude to make up a small dataset for this project.
+# Data Source
+For this data source, I asked Claude to make up a small dataset for this project.
 
 ## Overview
 
