@@ -10,4 +10,4 @@ Charlotte Tilbury is widely regarded as a benchmark for quality in prestige make
 
 The analysis covers five categories: lipstick, foundation, mascara, concealer, and blush. It compares one product from each of four drugstore brands against the equivalent Charlotte Tilbury product.
 
-# Data Source: For this data source I asked claude to make up a small dataset for this project. 25 products with fields for brand, product name, category, price, average customer star rating (1–5), review count, and a customer sentiment score (% positive, 0–100).
+# Data Source: For this data source I asked claude to make up a small dataset for this project. 
