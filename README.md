@@ -1,6 +1,8 @@
-# Drugstore Dupes:  Comparing affordable drugstore makeup brands (e.l.f., NYX, Maybelline, Wet n Wild) against Charlotte Tilbury, a prestige benchmark, across five product categories using SQL and Tableau.
+## Drugstore Dupes
 
-# Tech stack used: Python (pandas) MySQL, Tableau
+ Comparing affordable drugstore makeup brands (e.l.f., NYX, Maybelline, Wet n Wild) against Charlotte Tilbury, a prestige benchmark, across five product categories using SQL and Tableau.
+
+ Tech stack used: Python (pandas) MySQL, Tableau
 
 ## Overview
 
