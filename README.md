@@ -45,7 +45,10 @@ Analysis: This is the biggest drugstore win in the dataset: e.l.f. beats Charlot
 Suggestion: Pick e.l.f., as it's the standout result of the whole project.
 
 
+
+
 # Blush
+
 Findings: Wet n Wild has the highest sentiment score in the whole category (90%), beating both Charlotte Tilbury and e.l.f., at the lowest price ($4.14). But it's not the very top of the chart if you sort by star rating instead (4.0, lower than e.l.f.'s 4.5, or Charlotte Tilbury's 4.6). e.l.f. is essentially tied with Charlotte Tilbury on both metrics at 1/7th the cost, which is the more "balanced" pick.
 
 Suggestion: Pick Wet n Wild if sentiment is your primary metric; e.l.f. if you want the closest overall match to Charlotte Tilbury on both rating and sentiment.
