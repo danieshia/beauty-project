@@ -4,7 +4,7 @@
 
  Tech stack used: Python (pandas) MySQL, Tableau
 
-# Data Source
+## Data Source
 For this data source, I asked Claude to make up a small dataset for this project.
 
 ## Overview
@@ -15,7 +15,7 @@ The analysis covers five categories: lipstick, foundation, mascara, concealer, a
 
 
 
-## Lipstick
+# Lipstick
 
 Findings: This is the strongest category for drugstore brands. NYX actually beats Charlotte Tilbury on sentiment while matching its star rating at a third of the price. Wet n Wild is even more interesting, as it has the highest star rating in the whole category (4.8) at the lowest price ($6.03), even though its sentiment score trails NYX and CT slightly.
 
