@@ -6,7 +6,6 @@
 
 # Data Source: For this data source, I asked Claude to make up a small dataset for this project.
 
-
 ## Overview
 
 Charlotte Tilbury is widely regarded as a benchmark for quality in prestige makeup, but its price point puts it out of reach for many shoppers. This project asks a practical question: how close do affordable drugstore alternatives actually get to Charlotte Tilbury on customer satisfaction, and which specific products come closest?
